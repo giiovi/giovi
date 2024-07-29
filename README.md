@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey There 👋</h1>
-<p align="center">Yo I'm zyzz, an Apprentice currently living in Switzerland.</p>
+<p align="center">Hey I'm giovi, an Apprentice currently living in Switzerland.</p>
 
 <h2 align="center">Languages:</h2>
 <p align="center">
